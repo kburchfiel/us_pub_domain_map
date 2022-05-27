@@ -1,0 +1,1012 @@
+1653681164494	geckodriver	INFO	Listening on 127.0.0.1:52402
+1653681167649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52403" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileHdNPWb"
+1653681167872	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileHdNPWb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52403/devtools/browser/0e82009f-3365-4055-a9e4-9c88c9096569
+1653681168941	Marionette	INFO	Listening on port 52408
+1653681169197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653681174109	Marionette	INFO	Stopped listening on port 52408
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653681365100	geckodriver	INFO	Listening on 127.0.0.1:52582
+1653681368263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52583" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileSIxxal"
+1653681368476	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileSIxxal\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52583/devtools/browser/c89b1838-c7a0-40e3-aa99-b6dce763a687
+1653681369638	Marionette	INFO	Listening on port 52588
+1653681369807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653681374671	Marionette	INFO	Stopped listening on port 52588
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653681469239	geckodriver	INFO	Listening on 127.0.0.1:52741
+1653681472266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52742" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilevxZgaD"
+1653681472481	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilevxZgaD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52742/devtools/browser/e79b0f62-6fb4-4934-93a4-200cce391435
+1653681473596	Marionette	INFO	Listening on port 52748
+1653681473798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653681478714	Marionette	INFO	Stopped listening on port 52748
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653681499868	geckodriver	INFO	Listening on 127.0.0.1:52817
+1653681502953	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52818" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileyELluQ"
+1653681503183	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileyELluQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52818/devtools/browser/88f94003-d090-448e-9592-2eb1353a5df6
+1653681504398	Marionette	INFO	Listening on port 52827
+1653681504510	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653681509664	Marionette	INFO	Stopped listening on port 52827
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PAPZ::Msg___delete__) Channel error: cannot send/recv
+
+1653681588071	geckodriver	INFO	Listening on 127.0.0.1:52924
+1653681591147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52925" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileti9J6x"
+1653681591364	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileti9J6x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52925/devtools/browser/570b5a33-96fc-4c84-9a58-3f312f770312
+1653681592546	Marionette	INFO	Listening on port 52931
+1653681592687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653681597881	Marionette	INFO	Stopped listening on port 52931
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6224, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653681620543	geckodriver	INFO	Listening on 127.0.0.1:53022
+1653681623575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53023" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileDVHVcp"
+1653681623792	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileDVHVcp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53023/devtools/browser/35e4b088-56b7-4e43-bcf3-18752bb628f3
+1653681625020	Marionette	INFO	Listening on port 53028
+1653681625107	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653681630101	Marionette	INFO	Stopped listening on port 53028
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+
+###!!! [Parent][PCompositorManagerParent] Error: RunMessage(msgname=PCompositorManager::Msg_RemoveSharedSurface) Channel error: cannot send/recv
+
+1653681705648	geckodriver	INFO	Listening on 127.0.0.1:53225
+1653681708685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53226" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileRfFNHf"
+1653681708907	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileRfFNHf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53226/devtools/browser/5acc0c56-1df8-4f02-b273-6d258b3ad43c
+1653681710006	Marionette	INFO	Listening on port 53232
+1653681710222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653681715275	Marionette	INFO	Stopped listening on port 53232
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653681736185	geckodriver	INFO	Listening on 127.0.0.1:53305
+1653681739255	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53306" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileRNfNEw"
+1653681739468	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileRNfNEw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53306/devtools/browser/65547056-ead8-45ef-a18c-63271d03ce1b
+1653681740578	Marionette	INFO	Listening on port 53311
+1653681740787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653681745487	Marionette	INFO	Stopped listening on port 53311
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653681767056	geckodriver	INFO	Listening on 127.0.0.1:53388
+1653681770198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53389" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileywxjkZ"
+1653681770414	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileywxjkZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53389/devtools/browser/76ae921a-2f32-4488-bb2c-9817385a6a9a
+1653681771513	Marionette	INFO	Listening on port 53395
+1653681771739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653681776278	Marionette	INFO	Stopped listening on port 53395
+!!! error running onStopped callback: TypeError: callback is not a function
+1653682061754	geckodriver	INFO	Listening on 127.0.0.1:53587
+1653682064907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53588" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilefSNOKH"
+1653682065131	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilefSNOKH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53588/devtools/browser/69f6fa20-3fbb-48ea-88f3-e55f22a2738a
+1653682066288	Marionette	INFO	Listening on port 53593
+1653682066447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653682071523	Marionette	INFO	Stopped listening on port 53593
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653682093533	geckodriver	INFO	Listening on 127.0.0.1:53743
+1653682096601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53744" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileMT2vuS"
+1653682096883	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileMT2vuS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53744/devtools/browser/487ba113-01aa-4dee-833c-2ec5a393dbbd
+1653682098163	Marionette	INFO	Listening on port 53761
+1653682098668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653682103445	Marionette	INFO	Stopped listening on port 53761
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653682124733	geckodriver	INFO	Listening on 127.0.0.1:53839
+1653682127860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53840" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileTI701O"
+1653682128082	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileTI701O\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53840/devtools/browser/13d1a781-003f-404b-bcc2-7affd43f8041
+1653682129233	Marionette	INFO	Listening on port 53845
+1653682129391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653682133884	Marionette	INFO	Stopped listening on port 53845
+!!! error running onStopped callback: TypeError: callback is not a function
+1653682733003	geckodriver	INFO	Listening on 127.0.0.1:54118
+1653682736043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54119" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofiles5xjzT"
+1653682736261	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofiles5xjzT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54119/devtools/browser/d5e5ca98-ef16-4e61-a444-75b198df62fe
+1653682737394	Marionette	INFO	Listening on port 54124
+1653682737572	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653682744542	Marionette	INFO	Stopped listening on port 54124
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653682922161	geckodriver	INFO	Listening on 127.0.0.1:54293
+1653682925229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54294" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileg9JNvK"
+1653682925449	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileg9JNvK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54294/devtools/browser/599c4c0a-170e-4a9c-b19f-3e1464674fe3
+1653682926534	Marionette	INFO	Listening on port 54301
+1653682926755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653682931634	Marionette	INFO	Stopped listening on port 54301
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653683009451	geckodriver	INFO	Listening on 127.0.0.1:54438
+1653683012487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54439" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilerr5wbi"
+1653683012717	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilerr5wbi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54439/devtools/browser/b67e9227-40e1-480f-ba24-4f9acf9e3605
+1653683013895	Marionette	INFO	Listening on port 54449
+1653683014026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653683019120	Marionette	INFO	Stopped listening on port 54449
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653683040838	geckodriver	INFO	Listening on 127.0.0.1:54524
+1653683043898	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54525" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileVKWpqs"
+1653683044120	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileVKWpqs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54525/devtools/browser/4ac0012b-8269-4af8-90ad-a1269edd9f7f
+1653683045214	Marionette	INFO	Listening on port 54530
+1653683045437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653683050319	Marionette	INFO	Stopped listening on port 54530
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[Parent 46772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653683072213	geckodriver	INFO	Listening on 127.0.0.1:54605
+1653683075271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54606" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilemvZzqO"
+1653683075489	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilemvZzqO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54606/devtools/browser/0e936daf-63a1-456a-b606-7053676f3a17
+1653683076577	Marionette	INFO	Listening on port 54611
+1653683076799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653683081467	Marionette	INFO	Stopped listening on port 54611
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653684890256	geckodriver	INFO	Listening on 127.0.0.1:55419
+1653684893380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55420" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile9lSEJj"
+1653684893601	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile9lSEJj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55420/devtools/browser/1a8eb663-6841-474c-8dcc-491eecf8ca22
+1653684894756	Marionette	INFO	Listening on port 55425
+1653684894923	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653684901315	Marionette	INFO	Stopped listening on port 55425
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653685083418	geckodriver	INFO	Listening on 127.0.0.1:55533
+1653685086577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55534" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile0i5Svq"
+1653685086810	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile0i5Svq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55534/devtools/browser/f129fda7-3970-4e1a-accd-753fa6ae91f3
+1653685088067	Marionette	INFO	Listening on port 55539
+1653685088102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653685094362	Marionette	INFO	Stopped listening on port 55539
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653685127656	geckodriver	INFO	Listening on 127.0.0.1:55610
+1653685130723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55611" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilemQWcQm"
+1653685130938	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilemQWcQm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55611/devtools/browser/d452b84c-b91c-4329-8f17-f7caaf05502b
+1653685132112	Marionette	INFO	Listening on port 55617
+1653685132263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653685137966	Marionette	INFO	Stopped listening on port 55617
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653685376061	geckodriver	INFO	Listening on 127.0.0.1:55799
+1653685379220	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55800" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileDX6t7I"
+1653685379433	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileDX6t7I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55800/devtools/browser/1b21ac6c-7758-43fa-b4c4-78ebc6154c69
+1653685380576	Marionette	INFO	Listening on port 55805
+1653685380753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653685386894	Marionette	INFO	Stopped listening on port 55805
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653685422411	geckodriver	INFO	Listening on 127.0.0.1:55887
+1653685425461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55888" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileBuEdrY"
+1653685425693	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileBuEdrY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55888/devtools/browser/13fe4780-18bf-4b5d-a7df-763d970e1936
+1653685426864	Marionette	INFO	Listening on port 55893
+1653685427003	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653685433277	Marionette	INFO	Stopped listening on port 55893
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653685467379	geckodriver	INFO	Listening on 127.0.0.1:55969
+1653685470421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55970" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileNswb52"
+1653685470647	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileNswb52\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55970/devtools/browser/248e716a-8e24-4008-9760-9bd80ada74df
+1653685471813	Marionette	INFO	Listening on port 55976
+1653685471952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653685477573	Marionette	INFO	Stopped listening on port 55976
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653685762154	geckodriver	INFO	Listening on 127.0.0.1:56294
+1653685765180	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56295" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileUvXKp9"
+1653685765395	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileUvXKp9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56295/devtools/browser/36265761-9817-4cea-b5d9-011a42228e2d
+1653685766443	Marionette	INFO	Listening on port 56300
+1653685766713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653685773715	Marionette	INFO	Stopped listening on port 56300
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653685946623	geckodriver	INFO	Listening on 127.0.0.1:56426
+1653685949796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56427" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile1lk81b"
+1653685950015	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile1lk81b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56427/devtools/browser/86208b36-2908-45c5-9054-fad89da08ad0
+1653685951100	Marionette	INFO	Listening on port 56432
+1653685951341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653685958330	Marionette	INFO	Stopped listening on port 56432
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653686134248	geckodriver	INFO	Listening on 127.0.0.1:56578
+1653686137424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56579" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileFaQCDd"
+1653686137645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileFaQCDd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56579/devtools/browser/b120f6ec-7e03-4b45-a6a4-0e5db3ef5618
+1653686138759	Marionette	INFO	Listening on port 56584
+1653686138964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653686146212	Marionette	INFO	Stopped listening on port 56584
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+1653686211239	geckodriver	INFO	Listening on 127.0.0.1:56732
+1653686214300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56733" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileJVR6hO"
+1653686214519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileJVR6hO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56733/devtools/browser/cda3b2dc-303b-4818-8a76-2719527a56a5
+1653686215635	Marionette	INFO	Listening on port 56740
+1653686215841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1653686266429	Marionette	INFO	Stopped listening on port 56740
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653686444160	geckodriver	INFO	Listening on 127.0.0.1:57018
+1653686447298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57019" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileJy5sTe"
+1653686447519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileJy5sTe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57019/devtools/browser/c8e61d4d-93c0-4549-b638-146e68968a42
+1653686448612	Marionette	INFO	Listening on port 57024
+1653686448839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653686456345	Marionette	INFO	Stopped listening on port 57024
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653686518295	geckodriver	INFO	Listening on 127.0.0.1:57104
+1653686521377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57105" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileLfTtyk"
+1653686521593	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileLfTtyk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57105/devtools/browser/8633ef14-17d7-4600-bacd-187eee286c10
+1653686522668	Marionette	INFO	Listening on port 57111
+1653686522922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653686530101	Marionette	INFO	Stopped listening on port 57111
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653686610216	geckodriver	INFO	Listening on 127.0.0.1:57320
+1653686613369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57321" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileMFlrP9"
+1653686613589	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileMFlrP9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57321/devtools/browser/9da9fd16-c9ac-4abe-8a1b-9bf19094f8c5
+1653686614648	Marionette	INFO	Listening on port 57327
+1653686614902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653686621383	Marionette	INFO	Stopped listening on port 57327
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653686687684	geckodriver	INFO	Listening on 127.0.0.1:57407
+1653686690847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57408" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilebB7Olv"
+1653686691067	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilebB7Olv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57408/devtools/browser/c76b40cf-ab49-4f27-ac8f-46a1c3e89955
+1653686692237	Marionette	INFO	Listening on port 57415
+1653686692381	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653686699100	Marionette	INFO	Stopped listening on port 57415
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653686762667	geckodriver	INFO	Listening on 127.0.0.1:57531
+1653686765856	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57532" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileiB57tY"
+1653686766075	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileiB57tY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57532/devtools/browser/b3c33029-9426-417e-831b-72c3012eb404
+1653686767180	Marionette	INFO	Listening on port 57537
+1653686767402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653686774246	Marionette	INFO	Stopped listening on port 57537
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653686923682	geckodriver	INFO	Listening on 127.0.0.1:57984
+1653686926719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57985" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilejMHYeB"
+1653686926944	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilejMHYeB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57985/devtools/browser/e5398ef3-80d1-4455-b81a-83f839d53b10
+1653686928391	Marionette	INFO	Listening on port 57992
+1653686928777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653686935683	Marionette	INFO	Stopped listening on port 57992
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653687056853	geckodriver	INFO	Listening on 127.0.0.1:58154
+1653687059921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58155" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile4KAee7"
+1653687060146	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile4KAee7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58155/devtools/browser/08b5d417-d7de-49ac-9ee5-20fd4cb93872
+1653687061312	Marionette	INFO	Listening on port 58161
+1653687061453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653687069402	Marionette	INFO	Stopped listening on port 58161
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653687232826	geckodriver	INFO	Listening on 127.0.0.1:58304
+1653687235890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58305" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile9m5fAA"
+1653687236104	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile9m5fAA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58305/devtools/browser/02f19622-96de-4e45-b9ee-bbb69b665d09
+1653687237158	Marionette	INFO	Listening on port 58310
+1653687237419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653687245158	Marionette	INFO	Stopped listening on port 58310
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653687399606	geckodriver	INFO	Listening on 127.0.0.1:58438
+1653687402766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58439" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilehj2drl"
+1653687402980	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilehj2drl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58439/devtools/browser/37b1555a-5cb5-411d-8dc2-a787faa94add
+1653687404099	Marionette	INFO	Listening on port 58445
+1653687404311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653687411439	Marionette	INFO	Stopped listening on port 58445
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653687545838	geckodriver	INFO	Listening on 127.0.0.1:58576
+1653687548992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58577" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilezwDv2E"
+1653687549215	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilezwDv2E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58577/devtools/browser/0476fc95-b2c0-4093-8370-3e90e950d2d9
+1653687550336	Marionette	INFO	Listening on port 58582
+1653687550529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653687557652	Marionette	INFO	Stopped listening on port 58582
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653687724122	geckodriver	INFO	Listening on 127.0.0.1:58714
+1653687727306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58715" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile1y78Gr"
+1653687727521	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile1y78Gr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58715/devtools/browser/b046d48c-fecd-4f62-b789-c222e94e394e
+1653687728579	Marionette	INFO	Listening on port 58722
+1653687728848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653687735918	Marionette	INFO	Stopped listening on port 58722
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653687774382	geckodriver	INFO	Listening on 127.0.0.1:58799
+1653687777437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58800" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile0wCQj8"
+1653687777652	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile0wCQj8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58800/devtools/browser/00c4b160-b215-4a05-ae2e-106ea950e5ef
+1653687778846	Marionette	INFO	Listening on port 58805
+1653687778987	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653687785717	Marionette	INFO	Stopped listening on port 58805
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653687825844	geckodriver	INFO	Listening on 127.0.0.1:58908
+1653687829014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58909" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileoqzcJC"
+1653687829230	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileoqzcJC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58909/devtools/browser/8f006785-88c3-4bc9-83d8-f7334af78205
+1653687830348	Marionette	INFO	Listening on port 58915
+1653687830559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653687836719	Marionette	INFO	Stopped listening on port 58915
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653689404061	geckodriver	INFO	Listening on 127.0.0.1:59417
+1653689407113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59418" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofiledsjEiO"
+1653689407331	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofiledsjEiO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59418/devtools/browser/29242f81-3efe-4d46-b5ee-291b51831bdd
+1653689408408	Marionette	INFO	Listening on port 59423
+1653689408641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653689414422	Marionette	INFO	Stopped listening on port 59423
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653689520242	geckodriver	INFO	Listening on 127.0.0.1:57628
+1653689523327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57629" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileeQXtmy"
+1653689523541	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileeQXtmy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57629/devtools/browser/8c0e8f34-5b54-4001-88c4-6259d6809cb7
+1653689524571	Marionette	INFO	Listening on port 57635
+1653689524860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653689530649	Marionette	INFO	Stopped listening on port 57635
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653689622421	geckodriver	INFO	Listening on 127.0.0.1:57760
+1653689625500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57761" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileeyOkX0"
+1653689625716	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileeyOkX0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57761/devtools/browser/95e42912-25b2-42dd-83ac-48640cd83ac1
+1653689626750	Marionette	INFO	Listening on port 57767
+1653689627042	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653689632899	Marionette	INFO	Stopped listening on port 57767
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653689744903	geckodriver	INFO	Listening on 127.0.0.1:57894
+1653689747941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57895" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileNOt0Y5"
+1653689748168	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileNOt0Y5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57895/devtools/browser/ccb784e0-fff1-46ed-921e-5d8eca4eeb4f
+1653689749483	Marionette	INFO	Listening on port 57900
+1653689749994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653689757785	Marionette	INFO	Stopped listening on port 57900
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653690071339	geckodriver	INFO	Listening on 127.0.0.1:58129
+1653690074372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58130" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilehMpMm5"
+1653690074593	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilehMpMm5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58130/devtools/browser/bdd67411-f81d-4bea-95b8-a68e6ceac907
+1653690075681	Marionette	INFO	Listening on port 58138
+1653690075904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653690081781	Marionette	INFO	Stopped listening on port 58138
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653690316397	geckodriver	INFO	Listening on 127.0.0.1:58383
+1653690319562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58384" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileYf3tuz"
+1653690319786	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileYf3tuz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58384/devtools/browser/f3ebd8a0-d3a9-487a-9ec9-9d6552949207
+1653690320919	Marionette	INFO	Listening on port 58389
+1653690321094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653690326855	Marionette	INFO	Stopped listening on port 58389
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653692802564	geckodriver	INFO	Listening on 127.0.0.1:59483
+1653692805703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59484" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile4NaF7F"
+1653692805960	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile4NaF7F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59484/devtools/browser/0bf4b739-372d-46ae-88a9-c0cd85415f96
+1653692807189	Marionette	INFO	Listening on port 59514
+1653692807246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653692813535	Marionette	INFO	Stopped listening on port 59514
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653693106784	geckodriver	INFO	Listening on 127.0.0.1:53312
+1653693109811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53313" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileqSAC4o"
+1653693110030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileqSAC4o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53313/devtools/browser/2959881d-269e-454e-89dc-39dd9ea22903
+1653693111156	Marionette	INFO	Listening on port 53320
+1653693111354	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653693117188	Marionette	INFO	Stopped listening on port 53320
+!!! error running onStopped callback: TypeError: callback is not a function
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653693174924	geckodriver	INFO	Listening on 127.0.0.1:53432
+1653693178067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53433" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile1C498X"
+1653693178281	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofile1C498X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53433/devtools/browser/787bb178-964d-4ff1-b356-7730bf61ec17
+1653693179341	Marionette	INFO	Listening on port 53439
+1653693179607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2107,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2107","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:1023"]}] Barrier: quit-application-granted
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2119: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1653693263225	Marionette	INFO	Stopped listening on port 53439
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1653693420371	geckodriver	INFO	Listening on 127.0.0.1:61886
+1653693423441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61887" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofiledGKWMk"
+1653693423663	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofiledGKWMk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61887/devtools/browser/99c2d97f-959b-4eb1-851f-a8b13a261cbf
+1653693424787	Marionette	INFO	Listening on port 61909
+1653693424978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653693430938	Marionette	INFO	Stopped listening on port 61909
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653693490921	geckodriver	INFO	Listening on 127.0.0.1:62040
+1653693493971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62041" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileoqGtZp"
+1653693494194	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileoqGtZp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62041/devtools/browser/3cef85e6-e086-440e-b876-1991d11f120c
+1653693495370	Marionette	INFO	Listening on port 62046
+1653693495499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2107,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2107","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:1023"]}] Barrier: quit-application-granted
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:332:29
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2119: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1653693676963	Marionette	INFO	Stopped listening on port 62046
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1653693835625	geckodriver	INFO	Listening on 127.0.0.1:55430
+1653693838696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55437" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileeWyKOg"
+1653693838930	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileeWyKOg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55437/devtools/browser/0ac57985-ef82-4162-810f-41277728e26c
+1653693840106	Marionette	INFO	Listening on port 55461
+1653693840240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653693846181	Marionette	INFO	Stopped listening on port 55461
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653693873292	geckodriver	INFO	Listening on 127.0.0.1:55667
+1653693876453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55668" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileHSfqHk"
+1653693876675	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileHSfqHk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55668/devtools/browser/9bea90e2-8ca2-4e0c-bcd3-a5847a8b2416
+1653693877809	Marionette	INFO	Listening on port 55673
+1653693877997	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653693883616	Marionette	INFO	Stopped listening on port 55673
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653693909705	geckodriver	INFO	Listening on 127.0.0.1:55741
+1653693912882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55742" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilekdzlPJ"
+1653693913097	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilekdzlPJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55742/devtools/browser/96fa0b37-87b5-40f2-88c6-3fd2092072ad
+1653693914219	Marionette	INFO	Listening on port 55748
+1653693914423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653693919705	Marionette	INFO	Stopped listening on port 55748
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 38504, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1653694373087	geckodriver	INFO	Listening on 127.0.0.1:56109
+1653694376243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56110" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileAcPIQU"
+1653694376458	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileAcPIQU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56110/devtools/browser/2d59f023-e779-4f4c-a15f-966e6577effe
+1653694377577	Marionette	INFO	Listening on port 56115
+1653694377781	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653694383630	Marionette	INFO	Stopped listening on port 56115
+!!! error running onStopped callback: TypeError: callback is not a function
+1653694410962	geckodriver	INFO	Listening on 127.0.0.1:56232
+1653694414038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56233" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilejzGT9r"
+1653694414251	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilejzGT9r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56233/devtools/browser/e749abb2-299b-4e01-87ad-bcbdc565802e
+1653694415314	Marionette	INFO	Listening on port 56238
+1653694415589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653694421171	Marionette	INFO	Stopped listening on port 56238
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653694447691	geckodriver	INFO	Listening on 127.0.0.1:56327
+1653694450754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56328" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileRfK6a6"
+1653694450966	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileRfK6a6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56328/devtools/browser/a01c533e-4ffe-4950-a579-0c8e7288df95
+1653694452058	Marionette	INFO	Listening on port 56334
+1653694452300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653694457521	Marionette	INFO	Stopped listening on port 56334
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653694484753	geckodriver	INFO	Listening on 127.0.0.1:56403
+1653694487915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56404" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilewKbpMw"
+1653694488127	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilewKbpMw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56404/devtools/browser/34a3b1c7-0512-460c-bd6b-c0fd8b714dac
+1653694489175	Marionette	INFO	Listening on port 56409
+1653694489453	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653694495289	Marionette	INFO	Stopped listening on port 56409
+1653694604297	geckodriver	INFO	Listening on 127.0.0.1:56537
+1653694607456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56538" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilecdHJy5"
+1653694607674	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofilecdHJy5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56538/devtools/browser/15b6da7f-6370-4721-adff-01a2ea02d9e8
+1653694608780	Marionette	INFO	Listening on port 56543
+1653694608985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653694614832	Marionette	INFO	Stopped listening on port 56543
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1653694641279	geckodriver	INFO	Listening on 127.0.0.1:56614
+1653694644328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56615" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileFE8tcG"
+1653694644549	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileFE8tcG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56615/devtools/browser/d74bbf1c-2335-4acc-aa8e-09cac6a1791d
+1653694645623	Marionette	INFO	Listening on port 56620
+1653694645856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653694651460	Marionette	INFO	Stopped listening on port 56620
+!!! error running onStopped callback: TypeError: callback is not a function
+1653694678196	geckodriver	INFO	Listening on 127.0.0.1:56692
+1653694681238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56693" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileoAT42P"
+1653694681454	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileoAT42P\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56693/devtools/browser/fcca63f9-fa48-4589-9a5f-c2e6cf87574c
+1653694682609	Marionette	INFO	Listening on port 56699
+1653694682797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653694688040	Marionette	INFO	Stopped listening on port 56699
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653694716378	geckodriver	INFO	Listening on 127.0.0.1:56763
+1653694719420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56764" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileICDWxm"
+1653694719654	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileICDWxm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56764/devtools/browser/b1763197-064e-4c9d-8e51-1a8d396b36ad
+1653694720751	Marionette	INFO	Listening on port 56769
+1653694720954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653694726713	Marionette	INFO	Stopped listening on port 56769
+1653694754272	geckodriver	INFO	Listening on 127.0.0.1:56843
+1653694757324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56844" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileLIRfsP"
+1653694757552	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileLIRfsP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56844/devtools/browser/7e40ab3e-1ecf-429c-82f8-7d785ee5cf78
+1653694758639	Marionette	INFO	Listening on port 56849
+1653694758872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653694764549	Marionette	INFO	Stopped listening on port 56849
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1653694792318	geckodriver	INFO	Listening on 127.0.0.1:56922
+1653694795471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56923" "-no-remote" "-profile" "C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileCNefBw"
+1653694795701	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kburc\\AppData\\Local\\Temp\\rust_mozprofileCNefBw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56923/devtools/browser/62ab8467-77d7-419a-87dd-afac8c0b598d
+1653694796793	Marionette	INFO	Listening on port 56929
+1653694797016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1653694802456	Marionette	INFO	Stopped listening on port 56929
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
